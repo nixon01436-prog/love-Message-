@@ -1,0 +1,37 @@
+# love-Message-<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>For Msoo ❤️</title>
+<style>
+    body{
+        margin:0;
+        height:100vh;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        background:#111;
+        color:white;
+        font-family:Arial,sans-serif;
+        text-align:center;
+    }
+    .card{
+        background:#222;
+        padding:40px;
+        border-radius:15px;
+        box-shadow:0 0 20px #ff4d6d;
+    }
+    h1{
+        color:#ff4d6d;
+    }
+</style>
+</head>
+<body>
+    <div class="card">
+        <h1>I Love You, Msoo ❤️</h1>
+        <p>Have a nice day! ☀️</p>
+        <p>Take care. 💖</p>
+    </div>
+</body>
+</html>
